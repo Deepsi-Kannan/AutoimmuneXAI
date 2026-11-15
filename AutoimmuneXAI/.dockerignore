@@ -1,0 +1,9 @@
+# Only runtime code, dependencies and the original trained model enter the context.
+**
+!Dockerfile
+!requirements.txt
+!requirements-hosting.txt
+!backend/
+!backend/*.py
+!models/
+!models/autoimmune_xgb_model.joblib

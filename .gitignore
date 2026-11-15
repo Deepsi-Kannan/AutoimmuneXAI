@@ -1,0 +1,20 @@
+# Repository-wide local environments, generated output and private configuration.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+dist/
+.deployment-checks/
+.visual-check/
+.vercel/
+.vscode/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+.codex/
+*.log

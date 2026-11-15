@@ -1,0 +1,71 @@
+{
+  "target": "Linux x86_64 CPython 3.12",
+  "packages": [
+    {
+      "name": "numpy",
+      "version": "1.26.3",
+      "wheel": "numpy-1.26.3-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "compressed_bytes": 17950462,
+      "uncompressed_bytes": 63765497,
+      "files": 875
+    },
+    {
+      "name": "pandas",
+      "version": "2.2.3",
+      "wheel": "pandas-2.2.3-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "compressed_bytes": 12739445,
+      "uncompressed_bytes": 43448257,
+      "files": 1664
+    },
+    {
+      "name": "scipy",
+      "version": "1.16.3",
+      "wheel": "scipy-1.16.3-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+      "compressed_bytes": 35676692,
+      "uncompressed_bytes": 118392382,
+      "files": 1535
+    },
+    {
+      "name": "scikit-learn",
+      "version": "1.9.1",
+      "wheel": "scikit_learn-1.9.1-cp312-cp312-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+      "compressed_bytes": 9166043,
+      "uncompressed_bytes": 31047585,
+      "files": 1130
+    },
+    {
+      "name": "shap",
+      "version": "0.47.2",
+      "wheel": "shap-0.47.2-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+      "compressed_bytes": 1021904,
+      "uncompressed_bytes": 3576183,
+      "files": 127
+    },
+    {
+      "name": "numba",
+      "version": "0.67.0",
+      "wheel": "numba-0.67.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+      "compressed_bytes": 3884596,
+      "uncompressed_bytes": 15653213,
+      "files": 817
+    },
+    {
+      "name": "llvmlite",
+      "version": "0.49.0",
+      "wheel": "llvmlite-0.49.0-cp312-cp312-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+      "compressed_bytes": 59890658,
+      "uncompressed_bytes": 179464726,
+      "files": 51
+    },
+    {
+      "name": "xgboost-cpu",
+      "version": "2.1.4",
+      "wheel": "xgboost_cpu-2.1.4-py3-none-manylinux2014_x86_64.whl",
+      "compressed_bytes": 4533116,
+      "uncompressed_bytes": 14140720,
+      "files": 47
+    }
+  ],
+  "errors": [],
+  "subtotal_uncompressed_bytes": 469488563
+}

@@ -1,0 +1,14 @@
+# Prepared only: no service has been created or deployed.
+services:
+  - type: web
+    name: autoimmunexai-api
+    runtime: docker
+    plan: free
+    rootDir: AutoimmuneXAI
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /health
+    autoDeployTrigger: "off"
+    envVars:
+      - key: ALLOWED_ORIGINS
+        sync: false
