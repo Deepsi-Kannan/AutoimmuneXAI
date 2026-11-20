@@ -1,0 +1,10 @@
+{
+  "python": "3.12.13",
+  "linux_dependency_bytes": 439915061,
+  "model_bytes": 2874954,
+  "dependency_and_model_bytes": 442790015,
+  "estimated_optional_pyc_bytes": 107749770,
+  "compiled_source_files": 5088,
+  "syntax_failures": [],
+  "all_pyc_plus_dependencies_and_model": 550539785
+}
